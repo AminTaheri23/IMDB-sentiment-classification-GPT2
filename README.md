@@ -1,5 +1,5 @@
 # IMDB sentiment classification GPT2
-IMDB sentiment classification with GPT2 pre training
+IMDB sentiment classification with GPT2 pre training. main file is [here](https://github.com/AminTaheri23/IMDB-sentiment-classification-GPT2/blob/master/transfer_learning_classification_GPT2.ipynb)
 
 
 ## We don't have CLS token!
