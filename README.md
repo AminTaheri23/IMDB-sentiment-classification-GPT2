@@ -1,5 +1,6 @@
 # IMDB sentiment classification GPT2
-![GPT2 Versions](/img/gpt2.png)
+![:GPT2 Versions:](https://miro.medium.com/max/2880/0*BJTwVt0i59PaSB2Z.png)
+
 IMDB sentiment classification with GPT2 pre training. The main file is [here](https://github.com/AminTaheri23/IMDB-sentiment-classification-GPT2/blob/master/transfer_learning_classification_GPT2.ipynb)
 
 You can refresh your knowledge about GPT2 from [this awesome blog](http://jalammar.github.io/illustrated-gpt2/)
