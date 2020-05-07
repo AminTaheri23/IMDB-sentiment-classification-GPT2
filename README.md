@@ -1,6 +1,10 @@
 # IMDB sentiment classification GPT2
 IMDB sentiment classification with GPT2 pre training. main file is [here](https://github.com/AminTaheri23/IMDB-sentiment-classification-GPT2/blob/master/transfer_learning_classification_GPT2.ipynb)
 
+You can refresh your knowledge about GPT2 from [this awesome blog](http://jalammar.github.io/illustrated-gpt2/)
+
+## Running in Google Colab
+you can run a simmilar notebook in colab [from here ](https://colab.research.google.com/drive/1MgpwzojvoIRv8Fypxvy2OnjS-IiExlG3)
 
 ## We don't have CLS token!
 what is a cls token? it is a token for classification. Bert have this token and it is retrienved from a pooling and some other funtions such as sigmoid or tc. it is not precisely said in the paper (if you found it please show me so i can edit this). some other folks in github found that it is ok to average each word vector to make and classifiaction toke. so we are doing this here.
@@ -17,3 +21,4 @@ what is a cls token? it is a token for classification. Bert have this token and 
 - [jay alammar blog for visualizing gpt2](http://jalammar.github.io/illustrated-gpt2/)
 
 - a stack overflow for removing html tags from data set
+
