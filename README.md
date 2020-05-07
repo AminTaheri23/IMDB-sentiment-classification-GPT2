@@ -2,6 +2,9 @@
 IMDB sentiment classification with GPT2 pre training
 
 
+## We don't have CLS token!
+what is a cls token? it is a token for classification. Bert have this token and it is retrienved from a pooling and some other funtions such as sigmoid or tc. it is not precisely said in the paper (if you found it please show me so i can edit this). some other folks in github found that it is ok to average each word vector to make and classifiaction toke. so we are doing this here.
+
 ## Refrences
  - [Base notebook]( https://github.com/jalammar/jalammar.github.io/blob/master/notebooks/bert/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb)
 
